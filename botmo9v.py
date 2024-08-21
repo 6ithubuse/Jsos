@@ -1,3 +1,5 @@
+pip install requests
+pip install python-telegram-bot
 import os
 import random
 import json
